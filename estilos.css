@@ -1,0 +1,42 @@
+body{
+    background-color: lightblue;
+}
+
+input[type=text]:focus,input[type=password]:focus{
+    border-color: red;
+}
+th{
+    background-color: grey;
+}
+td,tr{
+    background-color:lightgreen;
+}
+
+input[type=button]{
+    border-radius: 30px;
+}
+
+caption{
+    text-align: center;
+    font-size: 180%;
+    color:darkblue;
+}
+
+form{
+    color:darkblue;
+    font-size:140%;
+    text-align:center;
+}
+
+p{
+    font-size: 130%;
+    color:darkblue;
+    text-align:center;
+}
+
+div{
+    color:red;
+    font-size: 80%;
+}
+
+
